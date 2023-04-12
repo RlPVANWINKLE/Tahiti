@@ -1,0 +1,24 @@
+.fs-30{
+font-size: 10vh;
+}
+.h100{
+    height: 100vh;
+}
+
+.animate__animated.animate__bounce {
+    --animate-duration: 3.5s;
+  }
+
+.animate__animated .animate__zoomInLeft{
+    --animate-duration: .05s;
+}
+.bg-lightgray{
+    background-color: rgb(230,230,230);
+}
+.bg-tahiti{
+    background-image: URL(images/bernard-begliomini-P_2rBbEDF2g-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: lighten;
+    
+}
